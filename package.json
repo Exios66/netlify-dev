@@ -15,10 +15,10 @@
 		"react-dom": "18.2.0",
 		"alchemy-sdk": "^2.6.2",
 		"@rainbow-me/rainbowkit": "^0.12.4",
-		"wagmi": "^0.12.6"
+		"wagmi": "^0.12.19"
 	},
 	"devDependencies": {
-		"eslint": "8.36.0",
-		"eslint-config-next": "13.2.4"
+		"eslint": "10.8.0",
+		"eslint-config-next": "16.2.12"
 	}
 }
